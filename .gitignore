@@ -3,6 +3,17 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+#Added excluded geo-related files
+*.zip
+*.gz
+*.csv
+*.gzip
+*.feather
+*.geofeather
+*.parquet
+*.geoparquet
+data/
+
 # C extensions
 *.so
 
